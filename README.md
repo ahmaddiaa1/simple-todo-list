@@ -93,6 +93,6 @@ src/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
+## 🧠 Project Overview
+A Todo-list app built with React.  
+🌤 **[View Live Demo →](https://simple-todo-list-three-nu.vercel.app/)**
